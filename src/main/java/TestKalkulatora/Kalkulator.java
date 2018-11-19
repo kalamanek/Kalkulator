@@ -23,7 +23,7 @@ public class Kalkulator {
 		return number1 - number2;
 	}
 	public static double multiple(double number1 , double number2){	
-		return number1 * +number2;
+		return number1 * number2;
 	}
 	public static double divide(double number1 , double number2){	
 		if(number2 == 0)
